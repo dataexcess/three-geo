@@ -26286,7 +26286,7 @@ var Geometries = /*#__PURE__*/Object.freeze({
 	OctahedronGeometry: OctahedronGeometry,
 	OctahedronBufferGeometry: OctahedronGeometry,
 	PlaneGeometry: PlaneGeometry,
-	PlaneBufferGeometry: PlaneGeometry,
+	PlaneGeometry: PlaneGeometry,
 	PolyhedronGeometry: PolyhedronGeometry,
 	PolyhedronBufferGeometry: PolyhedronGeometry,
 	RingGeometry: RingGeometry,
@@ -36774,7 +36774,7 @@ exports.ParticleSystemMaterial = ParticleSystemMaterial;
 exports.Path = Path;
 exports.PerspectiveCamera = PerspectiveCamera;
 exports.Plane = Plane;
-exports.PlaneBufferGeometry = PlaneGeometry;
+exports.PlaneGeometry = PlaneGeometry;
 exports.PlaneGeometry = PlaneGeometry;
 exports.PlaneHelper = PlaneHelper;
 exports.PointCloud = PointCloud;
