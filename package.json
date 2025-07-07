@@ -3,6 +3,7 @@
     "version": "1.4.6-dev5",
     "description": "3D geographic visualization library",
     "main": "dist/three-geo.min.js",
+    "module": "dist/three-geo.esm.js",
     "directories": {
         "example": "examples"
     },
